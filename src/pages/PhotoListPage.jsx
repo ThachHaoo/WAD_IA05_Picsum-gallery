@@ -1,4 +1,3 @@
-// src/pages/PhotoListPage.jsx
 import React, { useState } from 'react';
 import PhotoItem from '../components/PhotoItem';
 import LoadingSpinner from '../components/LoadingSpinner';

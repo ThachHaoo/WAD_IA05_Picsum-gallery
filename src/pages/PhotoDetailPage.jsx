@@ -1,4 +1,3 @@
-// src/pages/PhotoDetailPage.jsx
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
 import LoadingSpinner from '../components/LoadingSpinner';
